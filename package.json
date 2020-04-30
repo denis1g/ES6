@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/denis1g/ES6#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
